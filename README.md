@@ -41,5 +41,6 @@ This repository contains a set of SQL queries created as part of a database mana
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/database-assignment-with-mysql.git
-cd database-assignment-with-mysql
+git clone https://github.com/yourusername/mysql-database-assignment.git
+cd mysql-database-assignment
+
